@@ -94,6 +94,17 @@ A healthcare platform for Dr. Biswas Pain Clinic, focused on offering specialize
 
 ---
 
+## 🎥 YouTube Channel  
+- **[FullStack by Akhil](https://www.youtube.com/@fullstackbyakhil)** – Dive into in-depth tutorials and resources on full-stack development, MEAN stack, and more.
+
+## 📚 Tutorial Playlists  
+- **[MEAN Stack Development Tutorials](https://www.youtube.com/watch?v=-DXOZqT7Il4&list=PLsamUH6_AsElSVsHfWHIrPFkSfvNDCy3Q)** – A comprehensive series on building dynamic applications with MEAN stack.  
+- **[Node.js and Express Tutorials](https://www.youtube.com/watch?v=TyeMZYcRU0k&list=PLsamUH6_AsEkGpu02mAQwX102sWPYfq3u)** – A complete guide to backend development with Node.js and Express.  
+- **[Angular Tutorials](https://www.youtube.com/watch?v=gB4qS4GNiAc&list=PLsamUH6_AsEkE0YVSswuaQ1bx7u-gCVPJ)** – Master Angular and create robust frontend applications.  
+- **[Full Stack Development with React and Node](https://www.youtube.com/watch?v=QkV2QehzkGc&list=PLsamUH6_AsEnnFtYCXhHNPZqDKqsnIpre)** – Learn full-stack development with React and Node.js.
+
+---
+
 ## 📫 Contact Me  
 - **📞 Phone**: +91 7007761116  
 - **📧 Email**: [akhi1986@hotmail.com](mailto:akhi1986@hotmail.com)  
