@@ -35,17 +35,22 @@ I’m passionate about solving problems with clean and efficient code while ensu
 
 ### **Frameworks**  
 - ExpressJS  
-- Angular, ReactJS  
+- Angular, ReactJS, NextJS  
 
 ### **Other Skills**  
 - Git  
 - React Native  
-- REST API  
+- REST API
+- FAST API  
 - Python, Django  
 - Docker  
 - Redis-Stack  
-- AWS-S3 (File storage)  
-- Postman  
+- AWS-S3 (File storage)
+- AWS- CLOUD FRONT
+- AWS- EC-2
+- AWS- ROUTE53
+- Postman
+- GraphQL
 
 ---
 
@@ -67,6 +72,10 @@ Another learning platform offering resources for research scholars pursuing Ph.D
 ### [**resumeocean.com**](https://resumeocean.com)  
 An AI-powered resume builder and career guidance platform.  
 - **Technologies Used**: Angular 14, NodeJS, ExpressJS, MongoDB Atlas, AWS-S3.  
+
+### [**drbiswaspainclinic.com**](https://drbiswaspainclinic.com)  
+A healthcare platform for Dr. Biswas Pain Clinic, focused on offering specialized pain management services and appointment scheduling.  
+- **Technologies Used**: Next.js, NodeJS, MongoDB.
 
 ---
 
